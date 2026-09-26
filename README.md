@@ -1,2 +1,6 @@
-# stepik_auto_tests_course
+# stepik\_auto\_tests\_course
+
 Домашние задания к курсу по автотестированию
+
+Тут будет проект
+
